@@ -1,0 +1,4 @@
+name: "Danger Zone"
+description: |
+  The KGB has been sending encrypted [transmissions](http://$dangerzone/flag.encrypted) to their agent Kenny Loggins. In order to bring him in we need to show a judge what they are sending him. Luckily for us they have a server located at <http://$dangerzone> that responds to all requests by encrypting the data sent to it. We have also found that they host the source [code](http://$dangerzone/encryptor.c) for their encryption mechanism on the same server. 
+flag: "MCA-4E1CC7B5"
